@@ -23,7 +23,6 @@
 <a id = "about"></a>
 ## 📙 Overview 
 #### This Repo is the Front-End of mimcing <a href="https://chat.openai.com/">openAI chatGPT</a>
-#### The Repo for the Back-End by <a href="https://github.com/doaa281">Doaa ElSherif</a> is <a href="https://github.com/doaa281/chat-gpt">here</a>
 <hr style="background-color: #4b4c60"></hr>
 
 <a id = "started"></a>
@@ -32,7 +31,7 @@
 <li>Clone the repository
   
 ```
-git clone https://github.com/BasmaElhoseny01/chatgpt
+git clone https://github.com/AhmedNassar01/chatgpt
 ```
 </li>
 <li>Download Node modules
