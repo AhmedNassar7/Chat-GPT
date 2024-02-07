@@ -49,12 +49,6 @@ npm start
 </ol>
 <hr style="background-color: #4b4c60"></hr>
 
-
-<a id = "deployment"></a>
-## 🔴 Live Host
-Try our <a href="https://basmaelhoseny01.github.io/chatgpt/#/login">chatGPT</a>  😎😉😉
-<hr style="background-color: #4b4c60"></hr>
-
 ## 🎥 Screen Shots <a id ="video"></a>
 ![image](https://github.com/BasmaElhoseny01/chatgpt/assets/72309546/38ad461f-3fa2-4698-9e97-5ec9576acd08)
 ![image](https://github.com/BasmaElhoseny01/chatgpt/assets/72309546/65cbf70b-87cb-462f-86e8-19252284dc3c)
